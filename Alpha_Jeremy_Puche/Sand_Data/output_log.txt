@@ -1,0 +1,14 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780 (ID=0x1004)
+    Vendor:   NVIDIA
+    VRAM:     2994 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\lisid\Documents\SandParticle\Sand_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\lisid\Documents\SandParticle\Sand_Data\Managed\UnityEngine.dll into Unity Child Domain
+- Completed reload, in  0.044 seconds
+desktop: 1920x1200 59Hz; virtual: 3840x1200 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
